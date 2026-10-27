@@ -1,0 +1,74 @@
+{
+  "code": "SWC",
+  "title": "SMASH SWC",
+  "school": "수원여대",
+  "fullName": "수원여자대학교",
+  "campusName": "수원여자대학교 인제캠퍼스",
+  "tagline": "수원여대를 부셔 (시험기간 스트레스 해소)",
+  "description": "수원여자대학교 인제캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 수원여자대학교 인제캠퍼스 3D 화면과 SMASH SWC 제목",
+  "url": "https://hong-iron.github.io/SMASH-SWC/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 468020761
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.2530042,
+        126.9632819
+      ],
+      "n": "수원여자대학",
+      "why": "항공사진에 없음 — 한울관 북쪽 주차장 자리로 사진에 주차선만 보이고 건물이 없다."
+    },
+    {
+      "at": [
+        37.2526222,
+        126.9633889
+      ],
+      "n": "미림관",
+      "why": "같은 건물 겹침 — 한울관 앞 초록 출입구 지붕에 미림관 이름과 7층 높이를 잘못 붙인 작은 조각이라 한울관과 겹친다."
+    },
+    {
+      "at": [
+        37.2527581,
+        126.9640572
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 인제관 북쪽 마을 골목에 붙은 빨간 박공지붕 집으로, 학교 부지가 아닌 오목천동 24-7 임야에 있다."
+    },
+    {
+      "at": [
+        37.2527312,
+        126.9642005
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 인제관 북쪽 마을 골목에 붙은 검은 지붕 건물로, 학교 부지가 아닌 오목천동 24-7 임야에 있다."
+    },
+    {
+      "at": [
+        37.2525329,
+        126.9644706
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 인제관 동쪽 비탈의 검은 지붕 마을 건물로, 학교 부지가 아닌 오목천동 24-7 임야에 있고 학교 안내에도 없다."
+    },
+    {
+      "at": [
+        37.2525764,
+        126.9643557
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 인제관 동쪽 비탈의 검은 지붕 마을 건물로, 학교 부지가 아닌 오목천동 24-7 임야에 있고 학교 안내에도 없다."
+    }
+  ]
+}
